@@ -56,7 +56,7 @@ Setiap Pull Request yang berhasil diterima oleh Tim Mashara, akan diberikan Stik
 * Clone hasil fork nya ke komputer anda.
 
 ```markdown
-git clone https://github.com/mashara-dev/mashara-hacktoberfest
+git clone https://github.com/<username-github-kamu>/mashara-hacktoberfest
 ```
 
 * Buat branch baru dengan format `tantangan4/profil-mashara-kamu`, contoh `tantangan4/rony-fhebrian`
