@@ -34,7 +34,7 @@ Duplikat folder `word-editor` ke dalam folder `submissions` dan ganti nama folde
 ```
 # install depedencies
 $ npm run install
-$ expo start
+$ npm run start
 ```
 
 ## Prolog
@@ -46,7 +46,7 @@ Word Editor adalah fitur `Rich Text Editor` yang dapat menambahkan html styling 
 Setiap Pull Request yang berhasil diterima oleh Tim Mashara, akan diberikan Stiker dan Kaos Mashara gratis selama masa Hacktoberfest dan/atau github ini masih terbuka untuk kompetisi
 
 ## Instruksi
-1. Pada App.js terdapat Komponen `Word Editor` yang sudah kami persiapkan untuk kamu kerjakan
+1. Pada App.js terdapat Komponen `Word Editor` yang sudah kami persiapkan untuk kamu kerjakan ketika running
 2. Tambahkan format Bold, Italic, Underline, dan Bullet and Numbering pada TODO yang telah disediakan seperti gambar berikut
 
 ![wordeditor](https://i.imgur.com/FZBQ3Bt.png)
@@ -59,13 +59,13 @@ Setiap Pull Request yang berhasil diterima oleh Tim Mashara, akan diberikan Stik
 git clone https://github.com/mashara-dev/mashara-hacktoberfest
 ```
 
-* Buat branch baru
+* Buat branch baru dengan format `tantangan4/profil-mashara-kamu`, contoh `tantangan4/rony-fhebrian`
+
 ```markdown
 git checkout -b nama-branch
 ```
 
 * Buat perubahan sesuai instruksi cara kontribusi di atas
-* Pastikan 
 * Commit dan push
 
 ```markdown
