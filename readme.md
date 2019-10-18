@@ -17,66 +17,9 @@ Mimpi besar Mashara adalah ingin mengumpulkan dan membagikan pengetahuan tentang
 ## Cara kontribusi ke project ini
 >Sebelum berkontribusi ke project ini pastikan sudah mendaftar di website official [Hacktoberfest](https://hacktoberfest.digitalocean.com/)
 
-## Selamat Datang di Tantangan React Native Word Editor
-
-Berikut cara berkontribusi ke project ini:
-
-### 0. Prasyarat
-
-Pastikan bahwa kamu telah memasang Node.js, Expo dan React Native di laptop kamu untuk mengikuti tantangan ini.
-
-### 1. Registrasi di Mashara.id
-
-Duplikat folder `word-editor` ke dalam folder `submissions` dan ganti nama folder `word-editor` menjadi link profil kamu di Mashara.id, contoh `submissions/rony-fhebrian`
-
-## Build Setup
-
-```
-# install depedencies
-$ npm run install
-$ npm run start
-```
-
-## Prolog
-Word Editor adalah fitur `Rich Text Editor` yang dapat menambahkan html styling tag sehingga teks dapat diubah menjadi `Bold`, `Italic`, `Underline`, `Bullet and Numbering` seperti contoh pada gambar berikut
-
-![wordeditor](https://i.imgur.com/3Ry1KQ9.png?1)
-
-## Hadiah
-Setiap Pull Request yang berhasil diterima oleh Tim Mashara, akan diberikan Stiker dan Kaos Mashara gratis selama masa Hacktoberfest dan/atau github ini masih terbuka untuk kompetisi
-
-## Instruksi
-1. Pada App.js terdapat Komponen `Word Editor` yang sudah kami persiapkan untuk kamu kerjakan ketika running
-2. Tambahkan format Bold, Italic, Underline, dan Bullet and Numbering pada TODO yang telah disediakan seperti gambar berikut
-
-![wordeditor](https://i.imgur.com/FZBQ3Bt.png)
-
-## Getting started
-* Fork repository ini ( Klik tombol fork di bagian atas kanan halaman ini )
-* Clone hasil fork nya ke komputer anda.
-
-```markdown
-git clone https://github.com/mashara-dev/mashara-hacktoberfest
-```
-
-* Buat branch baru dengan format `tantangan4/profil-mashara-kamu`, contoh `tantangan4/rony-fhebrian`
-
-```markdown
-git checkout -b nama-branch
-```
-
-* Buat perubahan sesuai instruksi cara kontribusi di atas
-* Commit dan push
-
-```markdown
-git add .
-git commit -m 'Commit message'
-git push origin nama-branch
-```
-
-* Buat pull-request dari hasil repositori fork anda. ( Klik tombol `New Pull Request`).
-* Jangan lupa Tambahkan Label `Hacktoberfest`
-* Tunggu PR anda di review  
-* Jangan lupa **Star** repo ini.
-
-# Happy Coding!
+## Tantangan
+### Pilih tantangan yang telah kami sediakan untuk kamu pecahkan
+### Tantangan 1 => Kalender Hijriah
+### Tantangan 2 => Rest API untuk pencarian data dalam Quran
+### Tantangan 3 => Kilat Kompas dengan React Native
+### Tantangan 4 => Word Editor dengan React Native
