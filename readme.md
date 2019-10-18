@@ -15,7 +15,7 @@ Mimpi besar Mashara adalah ingin mengumpulkan dan membagikan pengetahuan tentang
 [https://hacktoberfest.digitalocean.com/](https://hacktoberfest.digitalocean.com/)
 
 ## Cara kontribusi ke project ini
->Sebelum berkontribusi ke project ini pastikan sudah mendaftar di website official [Hacktoberfest](https://hacktoberfest.digitalocean.com/)
+>Sebelum berkontribusi ke project ini pastikan sudah mendaftar di website official [Hacktoberfest](https://hacktoberfest.digitalocean.com/) dan mendaftar di website [Mashara.id](https://www.mashara.id)
 
 ## Tantangan
 Pilih tantangan yang telah kami sediakan untuk kamu pecahkan
