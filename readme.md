@@ -18,8 +18,8 @@ Mimpi besar Mashara adalah ingin mengumpulkan dan membagikan pengetahuan tentang
 >Sebelum berkontribusi ke project ini pastikan sudah mendaftar di website official [Hacktoberfest](https://hacktoberfest.digitalocean.com/)
 
 ## Tantangan
-### Pilih tantangan yang telah kami sediakan untuk kamu pecahkan
-### Tantangan 1 => Kalender Hijriah
-### Tantangan 2 => Rest API untuk pencarian data dalam Quran
-### Tantangan 3 => Kilat Kompas dengan React Native
-### Tantangan 4 => Word Editor dengan React Native
+Pilih tantangan yang telah kami sediakan untuk kamu pecahkan
+* Tantangan 1 => Kalender Hijriah
+* Tantangan 2 => Rest API untuk pencarian data dalam Quran
+* Tantangan 3 => Kilat Kompas dengan React Native
+* Tantangan 4 => Word Editor dengan React Native
