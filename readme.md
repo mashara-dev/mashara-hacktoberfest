@@ -26,6 +26,6 @@ Mimpi besar Mashara adalah ingin mengumpulkan dan membagikan pengetahuan tentang
 ## Tantangan
 Pilih tantangan yang telah kami sediakan untuk kamu pecahkan
 * Tantangan 1 => Kalender Hijriah
-* Tantangan 2 => Rest API untuk pencarian data dalam Quran
-* Tantangan 3 => Kilat Kompas dengan React Native
+* Tantangan 2 => pencarian surah dalam json
+* Tantangan 3 => Kiblat Kompas dengan React Native
 * Tantangan 4 => Word Editor dengan React Native
