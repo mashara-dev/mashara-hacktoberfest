@@ -1,0 +1,17 @@
+{
+  "name": "hacktober-fest",
+  "version": "1.0.0",
+  "description": "run npm run test",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "hacktoberfest"
+  ],
+  "author": "mashara - cakra.ds@gmail.com",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }
+}
