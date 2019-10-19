@@ -19,7 +19,7 @@ Hacktoberfest memberikan hadiah menarik seperti t-shirt & sticker bagi kontribut
 ![Mashara.id](https://www.mashara.id/_nuxt/img/2751b66.jpg)
 Mimpi besar Mashara adalah ingin mengumpulkan dan membagikan pengetahuan tentang dunia keislaman ke seluruh dunia. Perintah mempelajari ilmu agama adalah wajib bagi seluruh umat islam. Untuk itu, mengkodifikasi sumber-sumber keilmuan berkualitas melalui orang-orang terpercaya sangat penting bagi Mashara. Fenomena hari ini, pengetahuan terkait keislaman seringkali hanya terbatas bagi kalangan tertentu saja. Mashara hadir untuk menjembatani orang-orang yang memiliki pengetahuan dengan yang membutuhkannya.
 
-## Cara kontribusi ke project ini
+## :fire: Cara kontribusi ke project ini
 
 - Sebelum berkontribusi ke project ini pastikan sudah mendaftar di website official [Hacktoberfest](https://hacktoberfest.digitalocean.com/) dan mendaftar di website [Mashara.id](https://www.mashara.id)
 - Baca Permasalahan di bawah
