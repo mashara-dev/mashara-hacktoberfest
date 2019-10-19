@@ -19,7 +19,7 @@ Mimpi besar Mashara adalah ingin mengumpulkan dan membagikan pengetahuan tentang
 
 Kalender Hijiriah Converter
 
-## :handshaking: Cara kontribusi ke project ini
+## Cara kontribusi ke project ini
 
 - Sebelum berkontribusi ke project ini pastikan sudah mendaftar di website official [Hacktoberfest](https://hacktoberfest.digitalocean.com/) dan mendaftar di website [Mashara.id](https://www.mashara.id)
 - Baca Ketentuan Kontribusi di bawah
